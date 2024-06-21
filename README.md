@@ -1,1 +1,2 @@
-# FSD-22
+Design DB model for Guvi Zen class using MYSQL
+
